@@ -1,0 +1,11 @@
+ECE-542-Neural-Networks 
+
+Apply logistic regression and random forest on MNIST.
+
+</b> Environment </b>
+
+Python3 scikit-learn (You can use other machine learning libraries)
+
+<b> Dataset </b>
+
+Link for MNIST data - http://yann.lecun.com/exdb/mnist/
