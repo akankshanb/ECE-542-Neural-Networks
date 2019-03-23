@@ -31,9 +31,6 @@ If everything is correct, you will see  the output shows 3,000 samples in traini
 ```
 python mlp.py --sigmoid
 ```
-If everything is correct, you will see the plot like this:
-
-<img src = 'figs/sigmoid.png' height = '230px'>
 
 ### 4. Implement the backpropagation
 - Follow the comments in [`src/bp.py`](assignment/src/bp.py) to complete the implementation of backpropagation.
@@ -54,9 +51,6 @@ python mlp.py --gradient
 ```
 python mlp.py --train
 ```
-You will see something like this:
-
-<img src = 'figs/running.png' height = '230px'>
 - You can play with the hyperparameters (number of layers, number of hidden units, learning rate ...) to get better results.
 
 ### 6. Record the learning curve and result on testing data
@@ -68,7 +62,7 @@ You will see something like this:
 - Source code
 - Report should includes (Use [this](https://www.ieee.org/conferences/publishing/templates.html) template): 
 <!-- 1. Show derivation of <img src = 'figs/Project_1_grad_of_loss.PNG' height = '30px'>; -->
-1. Show derivation of <img src="https://latex.codecogs.com/svg.latex?\Large&space;\nabla_{a} L(\sigma(a))" title=" \nabla_{a} L(\sigma(a))" />, where L is the binary cross entropy loss and <img src="https://latex.codecogs.com/svg.latex?\Large&space;\sigma(a)" title="sigma" /> is the sigmoid function as mentioned in the lecture on Jan. 30;
+1. Show derivation of binary cross entropy loss and the sigmoid function as mentioned in the lecture on Jan. 30;
 2. Final structure of the network and other hyperparameters;
 3. learning curve (loss and accuracy) on both training and validation set; 
 4. accuracy on testing set.
