@@ -1,4 +1,4 @@
-Body-Rocking Behavior Recognition
+# Body-Rocking Behavior Recognition
 
 Wearable sensors have been shown to be effective for promoting self-awareness, wellness and re-education. 
 For this project, you will develop a detector for Body-rocking behavior from a blind subject (also commonly observed in individuals with autism) using inertial measurements from a wearable system. 
@@ -6,7 +6,7 @@ Two sensors, one of the wrist and another on the arm (as illustrated on the righ
 The data will consists of sessions about 1-2 hours long each with annotations of when the behavior was observed. 
 Your goal will be to train a classifier for the detections of these events.
 
-Deliverables:
+# Deliverables:
 
 1. Predictions for the provided test set
 2. Technical report
@@ -17,7 +17,7 @@ For your report, you should follow the following guidelines:
 4. Section 3 – Evaluation: Perform an evaluation of your method including error metrics. We will be giving you a test set for which you will give us your prediction for evaluation.
 5. Include several plots showing results of your inference and the groundtruth.
  
-Some References:
+# Some References:
 • L. Sadouk, T. Gadi, and E. H. Essoufi, “A novel deep learning approach for recognizing stereotypical motor movements within and across subjects on the autism spectrum disorder,” in Comp. Int. and Neurosc., 2018.
 • N. M. Rad, S. M. Kia, C. Zarbo, T. van Laarhoven, G. Jurman, P. Venuti, E. Marchiori, and C. Furlanello, “Deep learning for automatic stereotypical motor movement detection using wearable sensors in autism spectrum disorders,”SignalProcessing, vol. 144, pp. 180–191, 2018.
 • U. Grossekathofer, N. V. Manyakov, V. Mihajlovic, G. Pandina, A. Skalkin, S. Ness, A. Bangerter, and M. S. Goodwin, “Automated detection of stereotypical motor movements in autism spectrum disorder using recurrence quantification analysis,” in Front. Neuroinform., 2017
