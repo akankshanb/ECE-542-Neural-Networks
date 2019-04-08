@@ -18,7 +18,7 @@ For your report, you should follow the following guidelines:
 5. Include several plots showing results of your inference and the groundtruth.
  
 # Some References:
-• L. Sadouk, T. Gadi, and E. H. Essoufi, “A novel deep learning approach for recognizing stereotypical motor movements within and across subjects on the autism spectrum disorder,” in Comp. Int. and Neurosc., 2018.
-• N. M. Rad, S. M. Kia, C. Zarbo, T. van Laarhoven, G. Jurman, P. Venuti, E. Marchiori, and C. Furlanello, “Deep learning for automatic stereotypical motor movement detection using wearable sensors in autism spectrum disorders,”SignalProcessing, vol. 144, pp. 180–191, 2018.
-• U. Grossekathofer, N. V. Manyakov, V. Mihajlovic, G. Pandina, A. Skalkin, S. Ness, A. Bangerter, and M. S. Goodwin, “Automated detection of stereotypical motor movements in autism spectrum disorder using recurrence quantification analysis,” in Front. Neuroinform., 2017
+• L. Sadouk, T. Gadi, and E. H. Essoufi, “A novel deep learning approach for recognizing stereotypical motor movements within and across subjects on the autism spectrum disorder,” in Comp. Int. and Neurosc., 2018. </br>
+• N. M. Rad, S. M. Kia, C. Zarbo, T. van Laarhoven, G. Jurman, P. Venuti, E. Marchiori, and C. Furlanello, “Deep learning for automatic stereotypical motor movement detection using wearable sensors in autism spectrum disorders,”SignalProcessing, vol. 144, pp. 180–191, 2018. </br>
+• U. Grossekathofer, N. V. Manyakov, V. Mihajlovic, G. Pandina, A. Skalkin, S. Ness, A. Bangerter, and M. S. Goodwin, “Automated detection of stereotypical motor movements in autism spectrum disorder using recurrence quantification analysis,” in Front. Neuroinform., 2017 </br>
 • M. S. Goodwin, M. Haghighi, Q. Tang, M. Akakaya, D. Erdogmus, and S. S. Intille, “Moving towards a real-time system for automatically recognizing stereotypical motor movements in individuals on the autism spectrum using wireless accelerometry,” in Ubicomp, 2014.
